@@ -1,4 +1,4 @@
-sandbox
-=======
+A sandbox for previewing Markdown
+=================================
 
-A sanbox for previewing markdown.
+Just edit here and preview.
